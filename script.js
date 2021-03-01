@@ -216,7 +216,7 @@ function getCanvasY(posY){
 }
 
 function showPressure(){
-    ele_pressure.innerHTML = "Pressure: "+(total_dp/t/(cv.height+cv.width)*2).toFixed(4) + " N/pixel^2";
+    ele_pressure.innerHTML = "Pressure: "+(total_dp/t/(cv.height+cv.width)*2).toFixed(4) + " N/pixel";
 }
 
 //#endregion Utils
