@@ -1,2 +1,2 @@
 # RandomWalkExample
-ใครอยากลองใช้ github ลองเปิด issue หรือ pull request ได้นะ
+ใครอยากลองใช้ github ลองเปิด issue (ตั้งคำถามได้) หรือ pull request ได้นะ
